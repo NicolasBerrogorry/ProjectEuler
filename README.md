@@ -1,2 +1,2 @@
 # ProjectEuler
- Project Euler solutions in C++ programming language.
+ Project Euler problem solutions in various programming languages.

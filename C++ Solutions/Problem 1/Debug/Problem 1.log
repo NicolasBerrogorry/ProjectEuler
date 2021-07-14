@@ -1,0 +1,4 @@
+﻿  Problem 1.cpp
+C:\Users\Nico\Documents\GitHub\ProjectEuler\C++ Solutions\Problem 1\Problem 1.cpp : fatal error C1041: cannot open program database 'C:\Users\Nico\Documents\GitHub\ProjectEuler\C++ Solutions\Problem 1\Debug\vc142.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+FileTracker : error FTK1011: could not create the new file tracking log file: C:\Users\Nico\Documents\GitHub\ProjectEuler\C++ Solutions\Problem 1\Debug\Problem 1.tlog\CL.read.1.tlog. The system cannot find the file specified.
+FileTracker : error FTK1011: could not create the new file tracking log file: C:\Users\Nico\Documents\GitHub\ProjectEuler\C++ Solutions\Problem 1\Debug\Problem 1.tlog\CL.write.1.tlog. The system cannot find the file specified.
